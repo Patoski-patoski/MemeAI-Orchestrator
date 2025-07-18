@@ -110,5 +110,3 @@ docker run -p 8080:8080 --env-file .env patrickpatoski/agent-challenge:latest
   - List of already customized meme template images with names
   
 ---
-
-Would you like this documentation added directly to your README, or do you want it as a separate file (e.g., `MEME-GENERATOR.md`)?
